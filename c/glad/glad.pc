@@ -1,0 +1,12 @@
+prefix=/usr/local
+exec_prefix=/usr/local
+libdir=${exec_prefix}/lib/glad
+includedir=${prefix}/include/glad
+
+Name: myclib
+Description: myclib for go bin
+Version: 1.0.1
+
+Requires:
+Libs: -L${libdir} -lglad
+Cflags: -I${includedir}

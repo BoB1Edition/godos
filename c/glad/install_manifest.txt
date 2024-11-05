@@ -1,0 +1,5 @@
+/usr/local/lib/glad/libglad.dylib
+/usr/local/include/glad/gl.h
+/usr/local/include/glad/khrplatform.h
+/usr/local/include/KHR/khrplatform.h
+/usr/local/share/pkgconfig/glad.pc
